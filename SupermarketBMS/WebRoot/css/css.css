@@ -1,0 +1,9 @@
+.*{ margin:0px; padding:0px; font-size:12px}
+.top{ width:725px; height:40px;padding-left:530px; margin-top:180px; margin-left:10px;font-size:20px; font:bold "ÐÂËÎÌå"; 
+color:#0000CC}
+.middle{ width:1220px; height:100px;background:url(../mainimage/bg.jpg) repeat-x; padding-left:500px;
+ padding-top:13px; margin-left:15px;}
+ .bottom{ width:1220px; height:250px; background:#EAF1F4; padding-left:500px; margin-left:15px; font-size:12px; color:#999999}
+
+
+
